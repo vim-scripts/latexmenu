@@ -1,0 +1,6 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1210
+
+This plugin adds a function GenerateLatexMenu() which parses a latexfile
+for \chapter's, \section's, etc. and generates a "Navigation"-menu in the gui-menubar
+where you can jump quickly into the different sections.
+
